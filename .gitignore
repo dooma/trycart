@@ -1,0 +1,4 @@
+# Exclude http log files
+error_log
+access_log
+dump*
